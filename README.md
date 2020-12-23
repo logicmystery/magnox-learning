@@ -1,2 +1,2 @@
 # magnox-learning
-Exam system magnox learning
+Examination system magnox learning
